@@ -1,7 +1,7 @@
 package org.example;
 import java.util.Scanner;
 
-public class atv2 {
+public class atividade2 {
     static void main() {
         Scanner sc = new Scanner(System.in);
         double nota;

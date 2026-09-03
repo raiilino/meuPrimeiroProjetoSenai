@@ -1,7 +1,7 @@
 package org.example;
 import java.util.Scanner;
 
-public class att1 {
+public class atividade1 {
     static void main() {
         Scanner sc = new Scanner(System.in);
         int idade;
