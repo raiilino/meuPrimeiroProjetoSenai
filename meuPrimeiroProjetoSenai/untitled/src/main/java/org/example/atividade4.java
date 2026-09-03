@@ -9,16 +9,16 @@ public class atividade4 {
         n1 = sc.nextDouble();
 
         if (n1 >= 9) {
-            System.out.println("nota EXCELENTE!" );
+            System.out.println("nota EXCELENTE! " );
         }
         else if (n1 >= 7) {
-            System.out.println("nota BOA!" );
+            System.out.println("nota BOA! " );
         }
         else if (n1 >= 5) {
-            System.out.println("nota REGULAR!" );
+            System.out.println("nota REGULAR! " );
         }
         else {
-            System.out.println("nota RUIM!" );
+            System.out.println("nota RUIM! " );
         }
     }
 }
